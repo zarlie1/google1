@@ -2,3 +2,4 @@
 # we are going to test files
 # without hard coding
 # author Bankel
+# the lord is good 
